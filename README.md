@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Este es un repositorio del modulo2 del PrepCourse Henry
+este es un repositor de git a mi escritorio
