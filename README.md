@@ -1,1 +1,1 @@
-este es un repositor de git a mi escritorio
+prueba de repositor de mi escritorio a gis ariel diaz
